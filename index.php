@@ -42,6 +42,7 @@
             background-color: #0056b3;
         }
         #chatbot {
+            display: none; /* Initially hide the chatbot */
             position: fixed;
             bottom: 20px;
             right: 20px;
@@ -57,10 +58,25 @@
             <h1>online quiz system</h1>
             <a href="login.php" class="btn">login</a> &emsp;
             <a href="register.php" class="btn">register</a>
+            <button id="toggleChatbot" class="btn">Toggle Chatbot</button>
             <h2>Good Luck.</h2>
         </div>
     </center>
     <!-- Add the iframe code -->
     <iframe id="chatbot" src="https://webchat.botframework.com/embed/quizz-bot?s=3TkArRXAA48.RwvCrtZKmwjtQrkGufIc6iI2FuOGgDPxZbmrmcoqbs8"></iframe>
+
+    <script>
+        // JavaScript to toggle the visibility of the chatbot iframe
+        const toggleChatbotButton = document.getElementById('toggleChatbot');
+        const chatbotIframe = document.getElementById('chatbot');
+
+        toggleChatbotButton.addEventListener('click', function() {
+            if (chatbotIframe.style.display === 'none') {
+                chatbotIframe.style.display = 'block';
+            } else {
+                chatbotIframe.style.display = 'none';
+            }
+        });
+    </script>
 </body>
 </html>
