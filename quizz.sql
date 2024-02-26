@@ -318,7 +318,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`name`, `college`, `email`, `password`) VALUES
-('Swagatika Padhi', 'National Institute of Science and Technology, Berhampur', 'pinky@gmail.com', 'ganesh'),
+('Swagatika Padhi', 'National Institute of Science and Technology, Berhampur', 'ganesh@gmail.com', 'ganesh'),
 ('Priyanka Pattnaik', 'National Institute of Science and Technology, Berhampur', 'priyanka@gmail.com', 'pinka');
 
 --
