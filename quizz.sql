@@ -297,7 +297,7 @@ CREATE TABLE `rank` (
 --
 
 INSERT INTO `rank` (`email`, `score`, `time`) VALUES
-('pinky@gmail.com', 30, '2018-06-03 16:57:45'),
+('ganesh@gmail.com', 30, '2018-06-03 16:57:45'),
 ('priyanka@gmail.com', 22, '2018-06-03 16:59:06');
 
 -- --------------------------------------------------------
@@ -318,7 +318,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`name`, `college`, `email`, `password`) VALUES
-('Swagatika Padhi', 'National Institute of Science and Technology, Berhampur', 'pinky@gmail.com', 'pinky'),
+('Swagatika Padhi', 'National Institute of Science and Technology, Berhampur', 'pinky@gmail.com', 'ganesh'),
 ('Priyanka Pattnaik', 'National Institute of Science and Technology, Berhampur', 'priyanka@gmail.com', 'pinka');
 
 --
