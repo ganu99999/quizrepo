@@ -58,7 +58,7 @@
             <h1>online quiz system</h1>
             <a href="login.php" class="btn">login</a> &emsp;
             <a href="register.php" class="btn">register</a>
-            <button id="toggleChatbot" class="btn">Toggle Chatbot</button>
+            <button id="toggleChatbot" class="btn">Get Support</button>
             <h2>Good Luck.</h2>
         </div>
     </center>
