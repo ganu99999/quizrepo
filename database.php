@@ -1,4 +1,4 @@
 <?php
-$con= new mysqli('quizz.database.windows.net','ghanshyam','Redbull9','dbquizz')or die("Could not connect to mysql".mysqli_error($con));
+$con= new mysqli('quizz.mysql.database.azure.com','quizz','@Ghanshyam','quizz')or die("Could not connect to mysql".mysqli_error($con));
 
 ?>
