@@ -66,5 +66,4 @@ Safely handles the keys and secrets utilized within the application.
 # Core Azure Services :-
 # Azure App Service :
 Description :Azure App Service provides a scalable and reliable hosting environment for the ONLINE QUIZ SYSTEM , ensuring seamless deployment and continuous availability to optimize the user experience.
-C:\Users\deepjay\OneDrive\Pictures\Screenshots\Screenshot 2024-02-28 204406.png
-
+![Screenshot 2024-02-28 203649](https://github.com/ganu99999/quizrepo/assets/155416523/8a7452d8-1644-4a68-83e2-b6b907fc7d13)
