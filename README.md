@@ -9,8 +9,8 @@ https://quizzapp.azurewebsites.net/
 
 ## Github Repository URL :
 https://github.com/ganu99999/quizrepo
-Industry:Lifestyle
 
+Industry:Lifestyle
 ## Azure Services Used :-
 ### 1)Core Azure Services:
 1.Azure App Service:In this setup, I have deployed a front-end consisting of PHP, CSS,JavaScript for user interaction, along with a backend implemented in PHP.
