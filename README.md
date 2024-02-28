@@ -64,6 +64,40 @@ Enables talking to AI-powered bots in a natural way to quickly get answers and s
 Safely handles the keys and secrets utilized within the application.
 # Screenshots -
 # Core Azure Services :-
-# Azure App Service :
+# 1) Azure App Service :
 Description :Azure App Service provides a scalable and reliable hosting environment for the ONLINE QUIZ SYSTEM , ensuring seamless deployment and continuous availability to optimize the user experience.
-![Screenshot 2024-02-28 203649](https://github.com/ganu99999/quizrepo/assets/155416523/8a7452d8-1644-4a68-83e2-b6b907fc7d13)
+
+![Screenshot 1](https://github.com/ganu99999/quizrepo/assets/155416523/2e2d50c1-4b21-4e25-9c11-7c784fda9b12)
+
+# 2) Azure Database For MySQL :
+Description :The project utilizes Azure MySQL as its database solution to effectively manage and store user interaction history. Azure MySQL offers a dependable relational database service, ensuring data availability, reliability, and fast retrieval, resulting in seamless user experiences.
+
+
+![Screenshot 2](https://github.com/ganu99999/quizrepo/assets/155416523/e4a3a091-30f8-4e40-b867-145a7bd9e471)
+
+# Azure AI Service :
+
+# Azure Bot Service(Language Service):
+Description :Azure Bot Service enables ONLINE QUIZ SYSTEM to offer interactive and responsive bot experiences, improving user engagement and satisfaction with smooth deployment and uninterrupted availability.
+
+![Screenshot 3](https://github.com/ganu99999/quizrepo/assets/155416523/576bf0fd-cae9-49a4-a581-16c91f3d7ca8)
+
+![Screenshot 4](https://github.com/ganu99999/quizrepo/assets/155416523/401d81a9-188e-44c1-9ad6-2e4430ac7455)
+
+# Working Live Project Display :
+Below is a screenshot of the live website, showcasing the project in action for your reference and evaluation.
+
+![Screenshot 5](https://github.com/ganu99999/quizrepo/assets/155416523/da4b836e-f33f-4c02-9dd6-004acd7fe5fa)
+
+# Resource Visualizer :
+Description: Attached is a screenshot of the resource visualizer, offering a detailed overview of the utilized resources for reference and documentation.
+
+![Screenshot 6](https://github.com/ganu99999/quizrepo/assets/155416523/4a64705f-db7c-4e9f-85bf-1ad5414ba997)
+
+# Final Project Statement :
+The "Online Quiz System" is a comprehensive web-based platform designed to provide users with an interactive and engaging experience for testing their knowledge across various subjects. This user-friendly system offers a wide range of quizzes covering topics such as Networking,Php & Mysqland more. Users can register on the platform to create personalized profiles, track their progress, and compete with others in real-time quizzes.
+Utilizing modern web technologies such as PHP, CSS, JavaScript, and PHP, the system ensures seamless functionality and a visually appealing interface. Azure services, including Azure App Service and Azure MySQL, are integrated to provide a scalable and reliable hosting environment and database solution, respectively.
+
+
+
+
