@@ -4,8 +4,8 @@ Welcome to our online quiz project, a dynamic and engaging platform designed to 
 # Project Title: ONLINE QUIZZ
 # Project Details:
 # Project Demo URL:
-
+https://quizzapp.azurewebsites.net/
 # Demo Video URL :
 
 # Github Repository URL :
-
+https://github.com/ganu99999/quizrepo
